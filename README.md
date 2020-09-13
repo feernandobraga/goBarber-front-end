@@ -53,4 +53,4 @@ Below are the links to the other parts of the application
 Below are some screenshots from the application's interface:
 
 - Sign Up
-  ![Image](screenshots/signup - goBarber Web.png)
+  - ![Image](https://github.com/feernandobraga/goBarber-front-end/blob/master/screenshots/signin%20-%20goBarber%20Web.png)
