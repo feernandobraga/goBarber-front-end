@@ -6,7 +6,7 @@ This repository contains the application's Front-end and was developed during th
 
 # Technologies and Learning Outcomes
 
-The back-end was developed with **React** and **Typescript**. It allowed me to have hands on experience with:
+The Front-End was developed with **React** and **Typescript**. It allowed me to have hands on experience with:
 
 - RESTful APIs
 - Routing
@@ -46,7 +46,7 @@ Below are the links to the other parts of the application
 
 [Front-end] https://github.com/feernandobraga/goBarber-front-end
 
-[Mobile] http://
+[Mobile] https://github.com/feernandobraga/goBarber-Mobile
 
 # Screenshots
 
