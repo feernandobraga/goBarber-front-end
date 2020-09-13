@@ -1,44 +1,56 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# goBarber Front-end
 
-## Available Scripts
+goBarber is an application where barbers can offer their services to the public and clients can schedule appoints with their favorite barbers.
 
-In the project directory, you can run:
+This repository contains the application's Front-end and was developed during the Rocketseat's MERN stack Bootcamp.
 
-### `yarn start`
+# Technologies and Learning Outcomes
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The back-end was developed with **React** and **Typescript**. It allowed me to have hands on experience with:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- RESTful APIs
+- Routing
+- Styled Components
+- Props
+- Forms (unForm)
+- Hooks
+- Context API
+- Storage
+- Authentication with JWT
+- Exception Handling
+- Calendars
+- Testing with Jest and React Testing Library
+- Application Deployment (Netlify and Google Cloud)
 
-### `yarn test`
+# Installation
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+After cloning the repository, navigate to the project's folder and run
 
-### `yarn build`
+```
+yarn
+```
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+If you wish to fully play with the application, you will also have to download the [Back-end](https://github.com/feernandobraga/goBarber-back-end)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+With the back-end running, make sure that you are at the root folder of the project and run:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+yarn start
+```
 
-### `yarn eject`
+# Repositories
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Below are the links to the other parts of the application
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[Back-end] https://github.com/feernandobraga/goBarber-back-end
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[Front-end] https://github.com/feernandobraga/goBarber-front-end
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[Mobile] http://
 
-## Learn More
+# Screenshots
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Below are some screenshots from the application's interface:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Sign Up
+  ![Image](screenshots/signup - goBarber Web.png)
